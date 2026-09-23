@@ -54,7 +54,7 @@ if not api_key:
 client = OpenAI(
     api_key=api_key
 )
-
+os.makedirs("data", exist_ok=True)
 
 # ============================================================
 # HELPER FUNCTIONS
