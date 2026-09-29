@@ -21,3 +21,4 @@ env/
 # Generated data / uploaded documents
 data/*.json
 data/*.pdf
+industrial_digital_twin_demo.csv
